@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+8 inputs are given, with the first 4 being the first number and second 4 being the second number. these numbers will then be added.
 
 ## How to test
 
-Explain how to use your project
+Use a truth table and see if it matches.
 
 ## External hardware
 
